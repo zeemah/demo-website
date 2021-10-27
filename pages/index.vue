@@ -4,15 +4,14 @@
     <Home/>
     <About />
     <Team/>
+    <Services/>
     <Contact/>
+    <Newsletter/>
     <NavFooter/>
 
   </div>
   
 </template>
 
-<script>
-export default {}
-</script>
 
 Contact

@@ -20,12 +20,12 @@
 
                 <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
                 <div class="hidden -mx-4 lg:flex lg:items-center">
-                    <NuxtLink to="/index" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">Home</NuxtLink>
-                    <NuxtLink to="/about" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">About us</NuxtLink>
-                    <NuxtLink to="/developer" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">Developers</NuxtLink>
-                    <NuxtLink to="/designer" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">Designers</NuxtLink>
-                    <NuxtLink to="/services" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">Services</NuxtLink>
-                    <NuxtLink to="/contact" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">Contact us</NuxtLink>
+                    <NuxtLink to="#Home" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">Home</NuxtLink>
+                    <NuxtLink to="#About" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">About us</NuxtLink>
+                    <NuxtLink to="#Team" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">Our Team</NuxtLink>
+                    <NuxtLink to="#Services" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">Services</NuxtLink>
+                    <NuxtLink to="#Newsletter" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">Newsletter</NuxtLink>
+                    <NuxtLink to="#Contact" class="block mx-4 mt-2 text-sm text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-green-700 dark:hover:text-green-300">Contact us</NuxtLink>
                 </div>
             </div>
         </div>

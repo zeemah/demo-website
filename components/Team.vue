@@ -5,7 +5,7 @@
             <!-- <h2 class="text-base font-bold text-indigo-600">
                 We have the best equipment in the market
             </h2> -->
-            <h1 class="font-bold text-3xl md:text-4xl lg:text-5xl font-heading text-white">
+            <h1 class="font-bold text-xl md:text-4xl lg:text-4xl font-heading text-white">
              Our Talented Team         
             </h1>
         </div>

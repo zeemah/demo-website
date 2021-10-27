@@ -1,6 +1,6 @@
 <template>
     <!-- <div class="mb-16"> -->
-        <footer class="text-gray-600 body-font bg-gray-700">
+        <footer class="text-gray-600 body-font bg-gray-900">
             <div class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
             <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
                 <!-- <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900"> -->
@@ -29,16 +29,16 @@
                 <h2 class="title-font font-bold text-white tracking-widest text-md mb-3">Explore</h2>
                 <nav class="list-none mb-10">
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">First Link</a>
+                    <a class="text-white hover:text-green-700" href="#">First Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Second Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Second Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Third Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Third Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Fourth Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Fourth Link</a>
                     </li>
                 </nav>
                 </div>
@@ -46,16 +46,16 @@
                 <h2 class="title-font font-bold text-white tracking-widest text-md mb-3">Products</h2>
                 <nav class="list-none mb-10">
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">First Link</a>
+                    <a class="text-white hover:text-green-700" href="#">First Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Second Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Second Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Third Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Third Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Fourth Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Fourth Link</a>
                     </li>
                 </nav>
                 </div>
@@ -63,16 +63,16 @@
                 <h2 class="title-font font-bold text-white tracking-widest text-md mb-3">Services</h2>
                 <nav class="list-none mb-10">
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">First Link</a>
+                    <a class="text-white hover:text-green-700" href="#">First Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Second Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Second Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Third Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Third Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Fourth Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Fourth Link</a>
                     </li>
                 </nav>
                 </div>
@@ -80,16 +80,16 @@
                 <h2 class="title-font font-bold text-white tracking-widest text-md mb-3">Others</h2>
                 <nav class="list-none mb-10">
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">First Link</a>
+                    <a class="text-white hover:text-green-700" href="#">First Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Second Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Second Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Third Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Third Link</a>
                     </li>
                     <li>
-                    <a class="text-white hover:text-red-300" href="#">Fourth Link</a>
+                    <a class="text-white hover:text-green-700" href="#">Fourth Link</a>
                     </li>
                 </nav>
                 </div>
@@ -128,6 +128,7 @@
             </div>
          </footer>
     <!-- </div> -->
+    
 </template>
 
 <script>
