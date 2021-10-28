@@ -11,7 +11,7 @@
 
 			<div class="p-4 md:p-12 text-center lg:text-left">
 				<!-- Image for mobile view-->
-				<div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1534073828943-f801091bb18c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60')"></div>
+				<div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center" style="background-image: url('../assests/img/contact.gif')"></div>
 
 				<h1 class="text-3xl font-bold pt-8 lg:pt-0">Contact us</h1>
 				<div class="mx-auto lg:mx-0 w-1/5 pt-3 border-b-2 border-green-500 opacity-25"></div>
@@ -68,8 +68,6 @@
 						</svg></NuxtLink>
 				</div>
 
-				<!-- Use https://simpleicons.org/ to find the svg for your preferred product -->
-
 			</div>
 
 		</div>
@@ -77,9 +75,7 @@
 		<!--Img Col-->
 		<div class="w-full lg:w-2/5">
 			<!-- Big profile image for side bar (desktop) -->
-			<img src="https://images.unsplash.com/photo-1534073828943-f801091bb18c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" class="rounded-none lg:rounded-lg shadow-2xl hidden lg:block">
-			<!-- Image from: http://unsplash.com/photos/MP0IUfwrn0A -->
-
+			<img src="../assests/img/contact.gif" class="rounded-none lg:rounded-lg shadow-2xl hidden lg:block">
 		</div>
 
 	</div>
