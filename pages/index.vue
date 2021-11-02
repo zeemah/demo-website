@@ -1,17 +1,18 @@
 <template>
   <div>
-    <NavHeader/>
+    <NavHeader />
     <Home/>
-    <About />
+    <About/>
     <Team/>
     <Services/>
     <Contact/>
     <Newsletter/>
     <NavFooter/>
-
   </div>
   
 </template>
-
-
-Contact
+<style >
+    html {
+      scroll-behavior: smooth;
+    }
+</style>

@@ -1,12 +1,13 @@
 <template>
-    <div class="flex flex-wrap items-center py-20">
-      <div class="w-full md:w-6/12 px-4 ml-auto">
+ <div class="container mx-auto px-6 sm:px-12 flex flex-col-reverse sm:flex-row items-center">
+    <div class="flex flex-wrap items-center py-20 mx-40" id="about">
+      <div class="w-full md:w-6/12 px-4 ">
         <div class="flex items-center justify-center w-full h-96 md:w-1/2 ml-40">
             <img class="object-cover w-full h-full max-w-2xl text-center ml-20" src="../assests/img/about.gif" alt="">
         </div> 
       </div>
 
-  <div class="w-full md:w-4/12 px-12 md:px-4 mr-60 mt-16">
+  <div class="w-full md:w-4/12 px-12 md:px-4 md:mr-auto mt-16">
     <h3 class="text-3xl mb-2 font-semibold leading-normal">
       About us
     </h3>
@@ -19,4 +20,5 @@
   
   </div>
 </div>
+ </div>
 </template>

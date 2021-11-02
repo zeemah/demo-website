@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full bg-gray-800">
+    <div class="w-full bg-gray-800" id="team">
     <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
         <div class="text-center pb-12">
             <!-- <h2 class="text-base font-bold text-indigo-600">

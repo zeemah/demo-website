@@ -1,9 +1,7 @@
 <template>
-<div class="w-full ">
-  <div class="w-full bg-gray-800" :class="bg-img">
-   
-    
-    <div class="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto my-32 lg:my-0" >
+
+  <div class="w-full bg-gray-800">
+    <div class="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto lg:my-0" >
 
 		<!--Main Col-->
 		<div id="profile" class="w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl mx-6 lg:mx-0 bg-white">
@@ -40,7 +38,7 @@
                     </textarea>
                     </div> 
 				<div class="pt-12 pb-8">
-					<button class="bg-green-700 hover:bg-green-900 text-white font-bold py-2 px-4 rounded-full">
+					<button class="bg-green-700 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded-full">
 						Get In Touch
 					</button>
 				</div>
@@ -73,7 +71,7 @@
 		</div>
 
 		<!--Img Col-->
-		<div class="w-full lg:w-2/5">
+		<div class="w-full lg:w-2/5 py-8">
 			<!-- Big profile image for side bar (desktop) -->
 			<img src="../assests/img/contact.gif" class="rounded-none lg:rounded-lg shadow-2xl hidden lg:block">
 		</div>
@@ -81,5 +79,5 @@
 	</div>
 
   </div>
-</div>
+
 </template>

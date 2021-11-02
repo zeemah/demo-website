@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-100 py-14">
+  <div class="bg-gray-100 py-14" id="services">
     <!-- <h3 class="text-2xl tracking-widest text-gray-600 text-center">Our Services</h3> -->
     <h1 class="mt-8 text-center text-xl text-gray-800 font-bold font-bold text-xl md:text-4xl lg:text-4xl font-heading text-white">Our Services</h1>
 
