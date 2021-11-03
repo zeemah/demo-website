@@ -4,10 +4,13 @@ export default {
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  router: {
+    base: '/techy-website-nuxt/'
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'demo-website',
+    title: 'Techy Inc.',
     htmlAttrs: {
       lang: 'en'
     },

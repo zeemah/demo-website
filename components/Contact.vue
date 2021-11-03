@@ -4,7 +4,7 @@
     <div class="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto lg:my-0" >
 
 		<!--Main Col-->
-		<div id="profile" class="w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl mx-6 lg:mx-0 bg-white">
+		<div id="contact" class="w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl mx-6 lg:mx-0 bg-white">
 
 
 			<div class="p-4 md:p-12 text-center lg:text-left">
