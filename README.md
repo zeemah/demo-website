@@ -1,4 +1,4 @@
-# demo-website
+# techy-website
 
 ## Build Setup
 
